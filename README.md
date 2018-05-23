@@ -13,3 +13,4 @@
 
 效果预览：
 
+![preview](./previewImage/preview.gif)
