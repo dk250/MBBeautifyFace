@@ -7,6 +7,9 @@
 - 识别静态图上的人脸，并在人脸区域添加滤镜。
 - 识别视频中的人脸位置，并在人脸区域添加滤镜。
 
-文档详细地址见CF：
+文档详细地址见：
 
-[CoreImage和GPUImage的结合使用案例](http://cf.meitu.com/confluence/pages/viewpage.action?pageId=52910953)
+[CoreImage和GPUImage的结合使用案例](https://www.jianshu.com/p/76e6ef5a6a0f)
+
+效果预览：
+
