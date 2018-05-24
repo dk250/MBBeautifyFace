@@ -39,7 +39,6 @@
     
     [self showFeatures];
     [self addFilter];
-    //test
 }
 
 - (void)didReceiveMemoryWarning {
